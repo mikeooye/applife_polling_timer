@@ -1,7 +1,8 @@
 name: applife_polling_timer
 description: A new Flutter package project.
-version: 0.0.1
-homepage:
+version: 0.0.2
+homepage: https://github.com/mikeooye/applife_polling_timer
+repository: https://github.com/mikeooye/applife_polling_timer.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
