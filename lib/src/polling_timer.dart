@@ -59,6 +59,10 @@ class PollingTimer extends Object {
     _log('timer resumed');
   }
 
+  void reset() {
+    _updateTime();
+  }
+
   void _log(Object obj) {
     if (debug) {
       print(obj);
